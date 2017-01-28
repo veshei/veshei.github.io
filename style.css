@@ -1,0 +1,51 @@
+body {
+	background-color: white;
+	color: black;
+}
+
+h1 {
+	text-align: center;
+
+}s
+
+p {
+	font-size: 30px;
+	text-align: center;
+}
+
+
+
+.class1 {
+	color: black;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.class2 {
+	color: black;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.class3 {
+	color: black;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.jumbotron {
+	background-color: white;
+}
+
+.container {
+	background-color: white;
+}
+
+.navbar navbar-inverse {
+	background-color: white;
+}
+
+
+/*
+#myid {
+	font-size: 30px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+*/
