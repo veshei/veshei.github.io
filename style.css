@@ -1,48 +1,35 @@
 body {
 	background-color: white;
 	color: black;
+	padding-top: 50px;
+	font-size: 14px;
+	line-height: 1.43;
+	color:#333;
 }
 
-h1 {
-	text-align: center;
-
-}s
-
-p {
-	font-size: 30px;
-	text-align: center;
+.navbar-default {
+	background-color: #ffffff;
 }
 
+.container-fluid1 {
+	padding-top: 250px;
+	padding-bottom: 250px;
+	background-color: teal
 
-
-.class1 {
-	color: black;
-	font-family: 'Open Sans Condensed', sans-serif;
 }
-
-.class2 {
-	color: black;
-	font-family: 'Open Sans Condensed', sans-serif;
+.container-fluid3 {
+	padding-top: 100px;
+	padding-bottom: 250px;
+	background-color: maroon;
 }
-
-.class3 {
-	color: black;
-	font-family: 'Open Sans Condensed', sans-serif;
+.container-fluid {
+	padding-top: 80px;
+	padding-bottom: 130px;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;;
+	margin-left: auto;
 }
-
-.jumbotron {
-	background-color: white;
-}
-
-.container {
-	background-color: white;
-}
-
-.navbar navbar-inverse {
-	background-color: white;
-}
-
-
 /*
 #myid {
 	font-size: 30px;
